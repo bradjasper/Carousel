@@ -19,7 +19,7 @@ Here's a quick example:
         $(function() {
             $("li").carousel({
                 next: $(".next"),
-                prev: $(".prev"),
+                prev: $(".prev")
             });
         });
     </script>
